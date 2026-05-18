@@ -29,4 +29,4 @@ http://127.0.0.1:5000
 https://github.com/israelessien48-art/flask-student-web-app
 
 ## Video Demonstration
-PASTE VIDEO LINK HERE
+https://www.loom.com/share/219586d39fa64703930b3ddcc19b4a65
